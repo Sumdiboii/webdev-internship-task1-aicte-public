@@ -61,11 +61,11 @@
 
 
 <p align="center">
-  
-  ![Screenshot 2025-05-24 020203](https://github.com/user-attachments/assets/6ddb7eb1-c1cc-40d0-939c-ec8111b62fb9)
-  
-![Screenshot 2025-05-24 020221](https://github.com/user-attachments/assets/028f90bf-77b8-4965-a368-5b6e8410ffbc)
 
+   <img src="read-me-images/Screenshot 2025-06-03 020517.png" alt="Screenshot 2025-06-03 020517" />
+   
+  <img src="read-me-images/Screenshot 2025-05-24 020221.png" alt="Screenshot 2025-05-24 020221" />
+  
 </p>
 
 
